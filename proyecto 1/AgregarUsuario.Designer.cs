@@ -49,7 +49,7 @@
             this.label5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.label5.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label5.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.label5.Location = new System.Drawing.Point(563, 131);
+            this.label5.Location = new System.Drawing.Point(549, 133);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(232, 149);
             this.label5.TabIndex = 19;
